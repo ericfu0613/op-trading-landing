@@ -1,0 +1,13 @@
+title: OP Trading System
+description: Personal options research dashboard for Taiwan TXO/TXF market
+theme: jekyll-theme-minimal
+
+# Tell GitHub Pages: use docs/ as root, serve index.html
+include:
+  - index.html
+
+# Skip Jekyll processing of subfolders that are reference docs
+exclude:
+  - tradingview_pine_scripts
+  - glossary
+  - scheduler.md
